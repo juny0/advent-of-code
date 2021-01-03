@@ -1,4 +1,4 @@
-# https://adventofcode.com/2020/day/4
+# https://adventofcode.com/2020/day/7
 
 input = """dotted blue bags contain 3 wavy bronze bags, 5 clear tomato bags.
 mirrored brown bags contain 1 pale teal bag, 3 muted gray bags, 3 dark bronze bags.
