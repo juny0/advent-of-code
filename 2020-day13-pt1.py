@@ -26,6 +26,7 @@ def run(input):
             thisBusDepartsAt = bus * div
         else:
             print("error: div is neither float or int")
+            break
         if earliestBusTime == 0 or thisBusDepartsAt < earliestBusTime:
             earliestBus = bus
             earliestBusTime = thisBusDepartsAt
