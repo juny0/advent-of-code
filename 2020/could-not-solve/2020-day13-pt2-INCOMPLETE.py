@@ -10,3 +10,5 @@
 #      such that '(t + offset) % bus = 0'? This math stackexchange link 
 #      https://math.stackexchange.com/questions/2218763/how-to-find-lcm-of-two-numbers-when-one-starts-with-an-offset
 #      seems to provide that (not sure if it's a formal proof), but it looks more confusing than the Chinese Remainder Theorem.
+#
+#  Link with congruence statements: https://www.reddit.com/r/adventofcode/comments/kc5a23/2020_day_13_part_2_chinese_remainder_theorem/gfo1f5f?utm_source=share&utm_medium=web2x&context=3
